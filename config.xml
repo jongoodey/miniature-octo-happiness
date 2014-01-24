@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Jon's TODO app</name>
+    <name>Jon's Ember app</name>
 
     <description>
-        Hi there this is my todo app :) .
+        Hi there this is my ember app :) .
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
